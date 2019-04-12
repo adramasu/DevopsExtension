@@ -19,6 +19,8 @@ Proceed to use the script if you are OK with the following limitations.
 2. Git.exe (Download and install git for windows. Linux and Mac have git already installed by default.)
 - Git credential manager should have the credentials. You can do this by cloning a private repo from the same account. Clone the repository you want to split and that can be reused in the script too. 
 
+3. The user running the script has to have "CreateRepository" permission.
+
 
 ## Syntax 
 
